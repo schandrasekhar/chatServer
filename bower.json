@@ -1,0 +1,11 @@
+{
+  "name": "chatServer",
+  "description": "",
+  "authors": [
+    "chandrasekhar971@gmail.com"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  },
+  "license": "MIT"
+}
