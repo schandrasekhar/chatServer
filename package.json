@@ -1,4 +1,8 @@
 {
+  "name": "chatServer",
+  "description": "A chat server in nodejs",
+  "private": true,
+  "license": "MIT",
   "dependencies": {
     "bower": "^1.7.9",
     "express": "^4.14.0",
